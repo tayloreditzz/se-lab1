@@ -1,0 +1,6 @@
+a = int(input("Enter coeff a :"))
+b = int(input("Enter coeff b :"))
+c = int(input("Enter coeff c :"))
+x = int(input("Enter x value :"))
+y = a *x **2 + b *x + c
+print(f"solution :{y}")
